@@ -1,4 +1,4 @@
-                            Password Security Evaluation Report
+                                    Password Security Evaluation Report
 
 This repository contains an analysis of password strength based on multiple test passwords, feedback from online password strength checkers, and research on common password attacks.
 
